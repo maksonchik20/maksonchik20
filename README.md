@@ -1,6 +1,6 @@
 # Full-Stack Python developer
 
-[![Баннер maksonchik20](./Banner-Back-end.png)](https://maksonchik20.ru)
+[![Баннер maksonchik20](./Banner.png)](https://maksonchik20.ru)
 
 Привет,
 
