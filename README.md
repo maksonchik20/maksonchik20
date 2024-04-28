@@ -4,7 +4,11 @@
 
 Привет,
 
-Я Максим, Full-Stack Python developer, креативный кодер, специализирующийся на разработке сайтов.
+Я Максим, опытный Python Backend разработчик с уверенными навыками в создании сайтов.
+
+## Codeforces
+
+[Codeforces Account](https://codeforces.com/profile/maksonchik20)
 
 ## &#x1f4c8; GitHub Stats
 
